@@ -19,5 +19,5 @@ spec:
     value: getting-started
   - name: ServicePort
     value: "8080"
-  timeout: 1000s
+  timeout: 10000s
   serviceAccountName: tekton-triggers-createwebhook
