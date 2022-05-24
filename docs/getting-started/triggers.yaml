@@ -36,7 +36,7 @@ spec:
               type: image
               params:
                 - name: url
-                  value: DOCKERREPO-REPLACEME # docker-repo-location.com/repo:getting-started
+                  value: https://github.com/prinshaprasanth/triggers_ex #DOCKERREPO-REPLACEME # docker-repo-location.com/repo:getting-started
           - name: event-to-sink
             resourceSpec:
               type: cloudEvent

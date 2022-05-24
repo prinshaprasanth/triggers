@@ -14,7 +14,7 @@ spec:
   - name: CertificateSecretName
     value: ingresssecret
   - name: ExternalDomain
-    value: getting-started.iancoffey.com
+    value: 192.168.43.16
   - name: Service
     value: getting-started
   - name: ServicePort
